@@ -295,7 +295,7 @@ void lock_pairs(void)
             // }
 
 
-
+            // добавил коммент
             for (int j = 0; j < pair_count; j++)
             {
                 if(pairs[j].loser == pairs[last_num].loser)
